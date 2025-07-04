@@ -12,9 +12,18 @@ Start The Voice – EchoGen is a lightweight desktop application that lets you:
 
 Built using Python 3 and PyQt5, this project is perfect for learning voice processing or building custom voice tools.
 📸 Screenshots
-<img src="https://via.placeholder.com/800x450?text=Welcome+Page" alt="Welcome Page" width="500"/> <img src="https://via.placeholder.com/800x450?text=Main+Menu" alt="Main Menu" width="500"/> <img src="https://via.placeholder.com/800x450?text=Text+to+Speech" alt="Text to Speech" width="500"/> <img src="https://via.placeholder.com/800x450?text=Speech+to+Text" alt="Speech to Text" width="500"/>
 
-(Replace these with actual screenshots)
+**Welcome Page**  
+![Welcome Page](screenshots/welcome_page.png)
+
+**Main Menu**  
+![Main Menu](screenshots/main_menu.png)
+
+**Text to Speech**  
+![Text to Speech](screenshots/text_to_speech.png)
+
+**Speech to Text**  
+![Speech to Text](screenshots/speech_to_text.png)
 ⚙️ Requirements
 
 Python 3.7+
